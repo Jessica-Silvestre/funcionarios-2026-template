@@ -18,5 +18,10 @@
         "nome": "Ana Maria Coelho",
         "cargo": "BackEnd",
         "imagem": "ana.jpg"
+    },
+    {
+        "nome": "Jessica",
+        "cargo": "Nutricionista",
+        "imagem": "maria.jpg"
     }
 ]
